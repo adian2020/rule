@@ -4,22 +4,28 @@
     {
       "domain": [
         "eaassets-a.akamaihd.net",
-        "tos.ea.com"
-        "freeform-river.data.ea.com"
-        "gcs.ea.com"
-        "api.k.social.ea.com"
-        "ext-3-251-167-66.blaze.ea.com"
-        "qoscoordinator.gameservices.ea.com"
+        "tos.ea.com",
+        "freeform-river.data.ea.com",
+        "gcs.ea.com",
+        "api.k.social.ea.com",
+        "ext-3-251-167-66.blaze.ea.com",
+        "qoscoordinator.gameservices.ea.com",
+        "kingston-prod-cgw.ops.dice.se"
       ]
     },
     {
       "domain_suffix": [
-        ".ea.com",
+        ".ea.com"
       ]
     },
     {
       "domain_keyword": [
-        "ea",
+        "ea"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "40.74.11.34"
       ]
     }
   ]
