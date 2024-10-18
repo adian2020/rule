@@ -3,26 +3,23 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
-        "wxapp.tc.qq.com"
+        "eaassets-a.akamaihd.net",
+        "tos.ea.com"
+        "freeform-river.data.ea.com"
+        "gcs.ea.com"
+        "api.k.social.ea.com"
+        "ext-3-251-167-66.blaze.ea.com"
+        "qoscoordinator.gameservices.ea.com"
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com"
+        ".ea.com",
       ]
     },
     {
       "domain_keyword": [
-        "cherrytv",
-        "cherr"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "129.226.3.47/32",
-        "162.62.163.63/32"
+        "ea",
       ]
     }
   ]
