@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "d1.xboxlive.com",
+        "assets1.xboxlive.com"
+      ]
+    }
+  ]
+}
